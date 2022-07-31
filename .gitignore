@@ -127,6 +127,9 @@ $tf/
 # Guidance Automation Toolkit
 *.gpState
 
+# Photoshop Presentation Files
+*.psd
+
 # ReSharper is a .NET coding add-in
 _ReSharper*/
 *.[Rr]e[Ss]harper
@@ -238,7 +241,6 @@ ClientBin/
 *.jfm
 *.pfx
 *.publishsettings
-*.psd
 orleans.codegen.cs
 
 # Including strong name files can present a security risk
